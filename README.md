@@ -9,10 +9,11 @@ Step by step...
 3) You can fined the database "Students.sql" in the project folder
 
 4) Set up your database settings in the fields:
+
 Class.forName("com.mysql.cj.jdbc.Driver");
 con = DriverManager.getConnection("jdbc:mysql://localhost:3306/StudentIT", "root", "");
 
-4) Now you can add, remove and update students
+5) Now you can add, remove and update students
 
 #ENJOY !!!
 
