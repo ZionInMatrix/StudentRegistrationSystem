@@ -1,4 +1,4 @@
-h1 Java Simple Registration System
+# Java Simple Registration System
 
 ## Step by step:
 
