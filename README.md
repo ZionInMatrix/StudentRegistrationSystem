@@ -1,4 +1,4 @@
-# **Java Simple Registration System**
+# Java Simple Registration System
 
 ## Step by step:
 
@@ -10,9 +10,9 @@
 
 4. Set up your database settings in the fields:
 
-Class.forName("com.mysql.cj.jdbc.Driver");
+!Class.forName("com.mysql.cj.jdbc.Driver");
 
-con = DriverManager.getConnection("jdbc:mysql://localhost:3306/StudentIT", "root", "");
+!con = DriverManager.getConnection("jdbc:mysql://localhost:3306/StudentIT", "root", "");
 
 5. Now you can add, remove and update students
 
