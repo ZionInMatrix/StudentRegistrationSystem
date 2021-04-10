@@ -4,7 +4,7 @@
 
 1. Download MySQL any programm and setting it...
 
-2. Download MySQL Connector from https://dev.mysql.com/downloads/connector/j/ and add it to Structure of the Project ( you need the .jar file in the folder)
+2. Download MySQL Connector from ```https://dev.mysql.com/downloads/connector/j/``` and add it to Structure of the Project ( you need the .jar file in the folder)
 
 3. You can fined the database "Students.sql" in the project folder
 
