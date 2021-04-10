@@ -1,6 +1,6 @@
 # Java Simple Registration System
 
-##Step by step:
+## Step by step:
 
 1. Download MySQL any programm and setting it...
 
