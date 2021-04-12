@@ -2,7 +2,7 @@
 
 ## Step by step:
 
-1. Download MySQL any program and setting it...
+1. Download MySQL, and any program for MySQL database and setting it...
 
 2. Download MySQL Connector from ```https://dev.mysql.com/downloads/connector/j/``` and add it to Structure of the Project ( you need the .jar file in the folder)
 
